@@ -26,7 +26,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ManojkumarTalari/Food-Munch-Website.git
+   git clone https://github.com/deepthireddy2605/Food-Munch-Website.git
    ```
 
 2. **Navigate into the project directory:**
