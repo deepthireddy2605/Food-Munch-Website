@@ -2,7 +2,8 @@
 
 # 🍔 **Food Munch Website**
 
-Food-Munch-Website/
+🔗 **Live Demo:** [Check it Out Here](https://deepthireddy2605.github.io/Food-Munch-Website/)  
+💻 **GitHub Repository:** [Explore the Code](https://github.com/deepthireddy2605/Food-Munch-Website/)  
 
 Welcome to **Food Munch**, a modern and fully responsive restaurant website where users can explore the menu, find exclusive offers, locate the restaurant, and easily access contact details. The design adapts seamlessly to any device, ensuring a smooth browsing experience for users.
 
